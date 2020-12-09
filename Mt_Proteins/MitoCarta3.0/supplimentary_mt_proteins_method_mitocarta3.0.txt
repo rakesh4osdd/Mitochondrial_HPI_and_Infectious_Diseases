@@ -1,0 +1,6 @@
+This supplimentary file contain the method for mitocarta3.0:-
+
+This excel file contain only 1136 human genes sheet provided by MitoCarta. 
+This sheet has 1132 uniprot ids and 4 genes are mentioned without uniprot ids.
+
+We have crosschecked the 4 genes and found the two uniprot ids for given entries.

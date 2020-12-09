@@ -1,0 +1,25 @@
+3431-uniq-4920-MM-IMPI-Q2-2018_score0.8-UniProt_IDs.txt
+
+MitoMiner file download and manual selection of UniProt ids using filters:
+MitoMiner-IMPI-Q2-2018-UniprotID_results.zip
+MitoMiner-Proteins-9606-UniProt_Results.zip
+
+Prediction methods Filter Criteria:
+MitoFates: > 0.385
+TargetP: > 0.65
+iPSORT: = 1
+MitoProt: > 0.5
+
+Script to download MitoMiner dataset:
+MitoMiner-Proteins-Homo sapiens-UniProtID-144834-query.py
+
+Input file for Inteactive venn diagram at http://www.interactivenn.net/
+MM-IMPI-4_Pred_Union.ivenn
+MM-4Prediction-Common.ivenn
+
+Venn diagram using http://www.interactivenn.net/
+MM-4Prediction-Common.png
+MM-IMPI-4_Pred_Union.png
+
+Supplimentary method file for explanation:
+supplimentary_mt_proteins_method_mitominer.txt

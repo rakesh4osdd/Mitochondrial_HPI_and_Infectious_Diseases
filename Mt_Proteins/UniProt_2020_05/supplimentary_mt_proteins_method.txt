@@ -1,0 +1,12 @@
+This supplimentary file contain the method for UniProt_2020_05:-
+
+This folder contain the three keywords "mitochondrion, mitochondrial,mitochondria" for human search result obtain from UniProt:-
+1661 uniprot-mitochondrion-filtered-reviewed_yes+AND+organism__Homo+sapiens.xlsx
+2799 uniprot-mitochondrial-filtered-reviewed_yes+AND+organism__Homo+sapiens_23-Nov-2020.xlsx
+614 uniprot-human+mitochondria-filtered-reviewed_yes+AND+organism__Homo+sapien--.xlsx
+
+Two venn diagram is created using http://www.interactivenn.net/ to understand the common and different UniProt ids. The data used in venn diagram and output image is given below:-
+Union of Mt Protein UniProt IDs.ivenn
+Union of Mt Protein UniProt IDs.png
+UniProt-3Keyword-Union.ivenn
+UniProt-3Keyword-Union.png

@@ -1,0 +1,3 @@
+This supplimentary file contain the method for MSeqDR:-
+Here the downloaded MSeqDR transcript is available in MSeqDR-dataset.xlsx and create file 4065-NCBI-protein-id.txt for upload in UniProt uploadlist link https://www.uniprot.org/uploadlists/
+The downloaded data in excel is provided as file '2836-MSeqDR mapped to 2427 uniprot.xlsx'

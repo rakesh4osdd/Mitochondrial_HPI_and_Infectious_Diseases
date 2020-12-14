@@ -1,0 +1,3 @@
+514	uniprotkb:P51587	intact:EBI-2307713	9606 - Homo sapiens	10847 - Enterobacteria phage phiX174	MI:0681	mutation decreasing(MI:0119)	P51587:p.Thr1526Ala
+786	uniprotkb:P04637	uniprotkb:Q8QVZ0	9606 - Homo sapiens	31647 - Hepatitis C virus subtype 1b	MI:0326	mutation decreasing strength(MI:1133)	P04637:p.Arg273Gln
+956	uniprotkb:P04637	uniprotkb:P03244	9606 - Homo sapiens	10515 - Human adenovirus C serotype 2 (HAdV-2	MI:0326	mutation disrupting(MI:0573)	P04637:p.Pro27Tyr

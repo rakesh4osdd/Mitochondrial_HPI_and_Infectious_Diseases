@@ -1,0 +1,5 @@
+This supplimentary file contain the method for MSeqDR and mutations.tsv:-
+Please unzip mutations.zip to get mutations.tsv file used for filter dataset.
+Use the relavant path for file as per your file path
+Checkout the filter flowchart for steps follow-up.
+Use the scripts and python code as per filter steps.

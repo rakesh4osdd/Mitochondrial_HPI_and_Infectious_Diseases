@@ -1,0 +1,285 @@
+ID	Abbreviation	Name	OMIM ID	Individuals	Phenotypes	Associated with genes	Associated tissues	Disease features
+433	161700	"NECROTIZING ENCEPHALOMYELOPATHY, SUBACUTE, OF LEIGH, ADULT"	161700	0	0	-	-	-
+656	165200	"OPTIC ATROPHY WITH DEMYELINATING DISEASE OF CNS, 165200"	165200	0	0	-	-	-
+464	201460	MOVED TO 201475	201460	0	0	ACADVL	-	-
+402	203750	ALPHA-METHYLACETOACETIC ACIDURIA	203750	0	0	ACAT1	-	-
+438	212160	"CARNITINE DEFICIENCY, MYOPATHIC"	212160	0	0	-	-	-
+403	212350	SENGERS SYNDROME	212350	0	0	AGK	-	-
+12	220110	"Mitochondrial complex IV deficiency, 220110 (3)"	220110	1	0	"APOPT1, COA5, COA7, COX10, COX14, COX20, COX6B1, COX8A, FASTKD2, MT-CO1, MT-CO2, MT-CO3, MT-TL1, MT-TN, PET100, SCO1, SURF1, TACO1"	-	-
+404	221745	"DEAFNESS, SENSORINEURAL, AUTOSOMAL-MITOCHONDRIAL TYPE"	221745	0	0	-	-	-
+653	233690	"Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative"	233690	0	0	CYBA	-	-
+644	233700	"Chronic granulomatous disease, autosomal recessive cytochrome b-positive, type 1"	233700	0	0	NCF1	-	-
+645	233710	"Chronic granulomatous disease, autosomal recessive cytochrome b-positive, type 2"	233710	0	0	NCF2	-	-
+85	237300	Carbamoylphosphate synthetase I deficiency;CPS I DEFICIENCY	237300	0	0	CPS1	-	-
+405	238710	HYPERLYSINEMIA DUE TO DEFECT IN LYSINE TRANSPORT INTO MITOCHONDRIA	238710	0	0	-	-	-
+106	238970	"Hyperornithinemia-hyperammonemia-homocitrullinemia syndrome, 238970 (3)"	238970	0	0	SLC25A15	-	-
+38	245400	"Mitochondrial DNA depletion syndrome 9 (encephalomyopathic type with methylmalonic aciduria), 245400 (3)"	245400	0	0	SUCLG1	-	-
+650	250800	Deficiency of cytochrome-b5 reductase	250800	0	0	CYB5R3	-	-
+407	251945	MITOCHONDRIAL MYOPATHY WITH A DEFECT IN MITOCHONDRIAL-PROTEIN TRANSPORT	251945	0	0	-	-	-
+408	251950	MITOCHONDRIAL MYOPATHY WITH LACTIC ACIDOSIS	251950	0	0	", PNPLA8"	-	-
+11	252010	"Mitochondrial complex I deficiency, 252010 (3)"	252010	0	0	"FOXRED1, MT-ND1, MT-ND2, MT-ND3, MT-ND4, MT-TN, NDUFA1, NDUFA11, NDUFAF1, NDUFAF2, NDUFAF3, NDUFAF4, NDUFAF5, NDUFB11, NDUFB3, NDUFB9, NDUFS1, NDUFS2, NDUFS3, NDUFS4, 7 more"	-	-
+16	252011	"Mitochondrial complex II deficiency, 252011 (3)"	252011	0	0	"SDHA, SDHAF1, SDHD"	-	-
+486	255110	"CARNITINE PALMITOYLTRANSFERASE II DEFICIENCY, LATE-ONSET"	255110	0	0	CPT2	-	-
+440	255120	CARNITINE PALMITOYLTRANSFERASE I DEFICIENCY	255120	0	0	", CPT1A"	-	-
+409	255140	MYOPATHY WITH GIANT ABNORMAL MITOCHONDRIA	255140	0	0	-	-	-
+118	258450	"Progressive external ophthalmoplegia, autosomal recessive, 258450 (3)"	258450	0	0	POLG	-	-
+410	258470	OPHTHALMOPLEGIC NEUROMUSCULAR DISORDER WITH ABNORMAL MITOCHONDRIA	258470	0	0	-	-	-
+46	261650	"PEPCK deficiency, mitochondrial, 261650 (1)"	261650	0	0	", PCK2"	-	-
+398	266150	"Pyruvate carboxylase deficiency, 266150 (3)"	266150	0	0	PC	-	-
+119	267500	"Reticular dysgenesis, 267500 (3)"	267500	0	0	AK2	-	-
+526	300438	"HSD10 mitochondrial disease, 300438 (3)"	300438	0	0	HSD17B10	-	-
+575	301020	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 12; MC1DN12"	301020	0	0	NDUFA1	-	-
+576	301021	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 30; MC1DN30"	301021	0	0	NDUFB11	-	-
+390	308930	"Leigh syndrome, X-linked, 308930 (3)"	308930	0	0	PDHA1	-	-
+151	500000	"CARDIOMYOPATHY, INFANTILE HISTIOCYTOID"	500000	0	0	MT-CYB	-	-
+146	500002	MITOCHONDRIAL MYOPATHY WITH DIABETES	500002	0	0	", MT-TE"	-	-
+157	500003	"STRIATONIGRAL DEGENERATION, INFANTILE, MITOCHONDRIAL"	500003	0	0	MT-ATP6	-	-
+160	500004	RETINITIS PIGMENTOSA-DEAFNESS SYNDROME	500004	0	0	"CDH23, CLRN1, DFNB31, GPR98, MT-TS2, MYO7A, PCDH15, USH1C, USH1G, USH2A"	-	-
+148	500005	"HYPOMAGNESEMIA, HYPERTENSION, AND HYPERCHOLESTEROLEMIA, MITOCHONDRIAL, caused by a mutation in the mitochondrial tRNA(Ile) gene (590045). MT-TI"	500005	0	0	MT-TI	-	-
+570	500006	"500006 CARDIOMYOPATHY, INFANTILE HYPERTROPHIC"	500006	0	0	"MT-ATP6, MT-ATP8"	-	"Evidence that infantile hypertrophic cardiomyopathy can be caused by mutation in the overlapping MTATP6 (516060) and MTATP8 (516070) genes. ? Molecular Genetics In 4 unrelated infants who presented with isolated hypertrophic cardiomyopathy and congestive heart failure and who later developed severe feeding difficulties and failure to thrive, Ware et al. (2009) identified an 8528T-C transition, resulting in concurrent changes in the overlapping MTATP6 and MTATP8 genes, M1T (516060.0010) and W55R (516070.0003), respectively. Ware et al. (2009) stated that this was the first description of a mitochondrial mutation affecting both complex V genes."
+159	500008	"DEAFNESS, NONSYNDROMIC SENSORINEURAL, MITOCHONDRIAL"	500008	0	0	", MT-ND1, MT-RNR1, MT-TH, MT-TI, MT-TS1"	-	-
+571	500010	"500010 ATAXIA AND POLYNEUROPATHY, ADULT-ONSET"	500010	0	0	MT-ATP6	-	Evidence that adult-onset ataxia and polyneuropathy can be caused by mutation in the MTATP6 gene (516060).
+577	500014	"MITOCHONDRIAL COMPLEX I DEFICIENCY, MITOCHONDRIAL TYPE 1; MC1DM1"	500014	0	0	MT-ND3	-	-
+655	500015	"Mitochondrial complex v (atp synthase) deficiency, mitochondrial type 1"	500015	0	0	MT-ATP6	-	-
+147	502000	AGING aging represents a phenotype seemingly related to changes in mitochondrial DNA	502000	0	0	-	-	-
+161	502500	"ALZHEIMER DISEASE, SUSCEPTIBILITY TO, MITOCHONDRIAL"	502500	0	0	-	-	-
+145	515000	"CHLORAMPHENICOL TOXICITY;ANEMIA, CHLORAMPHENICOL-INDUCED;CHLORAMPHENICOL RESISTANCE, INCLUDED"	515000	0	0	", MT-RNR2"	-	-
+164	520100	"DIARRHEA, CHRONIC, WITH VILLOUS ATROPHY Links"	520100	0	0	-	-	-
+166	550500	"MYOGLOBINURIA, RECURRENT"	550500	0	0	MT-CO1	-	-
+171	551200	"NEPHROPATHY, CHRONIC TUBULOINTERSTITIAL"	551200	0	0	-	-	-
+167	553000	ONCOCYTOMA	553000	0	0	", MT-ND6"	-	-
+170	556500	"PARKINSON DISEASE, MITOCHONDRIAL"	556500	0	0	"MT-TK, NDUFV2"	-	-
+169	557000	PEARSON MARROW-PANCREAS SYNDROME	557000	0	0	-	-	-
+144	560000	"RENAL TUBULOPATHY, DIABETES MELLITUS, AND CEREBELLAR ATAXIA, caused by duplication of mitochondrial DNA"	560000	0	0	-	-	-
+51	580000	"DEAFNESS, AMINOGLYCOSIDE-INDUCED;STREPTOMYCIN-INDUCED"	580000	0	0	", MT-CO1, MT-RNR1, TRMU"	-	-
+156	598500	"WOLFRAM SYNDROME, MITOCHONDRIAL FORM"	598500	0	0	-	-	-
+412	600706	PROXIMAL MYOPATHY WITH FOCAL DEPLETION OF MITOCHONDRIA	600706	0	0	-	-	-
+566	600851	Mitochondrial import-stimulating factor	600851	0	0	-	-	-
+114	601665	"Obesity, autosomal dominant, 601665 (3)"	601665	0	0	", ADRB2, ADRB3, AGRP, CARTPT, ENPP1, GHRL, KANK1, LEPR, MC4R, more than 10, MRAP2, MT-CYB, NR0B2, POMC, PPARG, PPARGC1B, PYY, SDC3, SIM1, UCP1, UCP3"	-	-
+567	602252	"Mitochondrial intermembrane space protein tim12, yeast, homolog of"	602252	0	0	-	-	-
+104	603358	"GRACILE syndrome, 603358 (3)"	603358	0	0	BCS1L	-	-
+23	604273	"Mitochondrial complex V (ATP synthase) deficiency, nuclear type 1, 604273 (3)"	604273	0	0	ATPAF2	-	-
+89	605814	"Citrullinemia, type II, neonatal-onset, 605814 (3)"	605814	0	0	SLC25A13	-	-
+499	605899 GCE	GLYCINE ENCEPHALOPATHY; GCE	605899	0	0	"AMT, GCSH, GLDC"	-	-
+105	605911	"HMG-CoA synthase-2 deficiency, 605911 (3);MITOCHONDRIAL HMG-CoA SYNTHASE DEFICIENCY"	605911	0	0	HMGCS2	-	-
+416	606407	HYPOTONIA-CYSTINURIA SYNDROME	606407	0	0	-	-	-
+649	608158	CoQ-responsive OXPHOS deficiency	608158	0	0	-	-	-
+487	608836	"CARNITINE PALMITOYLTRANSFERASE II DEFICIENCY, LETHAL NEONATAL"	608836	0	0	CPT2	-	-
+651	608902	Disorder due cytochrome p450 CYP2D6 variant	608902	0	0	-	-	-
+417	609015	TRIFUNCTIONAL PROTEIN DEFICIENCY	609015	0	0	"HADHA, HADHB"	-	-
+47	609283	"Progressive external ophthalmoplegia with mitochondrial DNA deletions 3, 609283 (3)"	609283	0	0	SLC25A4	-	-
+48	610131	"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal dominant 4, 610131 (3)"	610131	0	0	POLG2	-	-
+81	610251	"Alcohol sensitivity, acute, 610251 (3)"	610251	0	0	ALDH2	-	-
+40	610773	"Mitochondrial phosphate carrier deficiency, 610773 (3)"	610773	0	0	SLC25A3	-	-
+418	611105	LEUKOENCEPHALOPATHY WITH BRAINSTEM AND SPINAL CORD INVOLVEMENT AND	611105	0	0	DARS2	-	-
+419	611126	"ACYL-CoA DEHYDROGENASE FAMILY, MEMBER 9, DEFICIENCY OF"	611126	0	0	ACAD9	-	-
+34	612073	"Mitochondrial DNA depletion syndrome 5 (encephalomyopathic with or without methylmalonic aciduria), 612073 (3)"	612073	0	0	SUCLA2	-	-
+37	612075	"Mitochondrial DNA depletion syndrome 8A (encephalomyopathic type with renal tubulopathy), 612075 (3)"	612075	0	0	RRM2B	-	-
+107	612949	"Hypomyelination, global cerebral, 612949 (3)"	612949	0	0	SLC25A12	-	-
+45	613076	"Myopathy, mitochondrial progressive, with congenital cataract, hearing loss, and developmental delay, 613076 (3)"	613076	0	0	GFER	-	-
+652	613571	Disordered steroidogenesis due to cytochrome p450 oxidoreductase deficiency	613571	0	0	POR	-	-
+101	613657	"D-2-hydroxyglutaric aciduria 2, 613657 (3)"	613657	0	0	IDH2	-	-
+654	613960	"Granulomatous disease, chronic, autosomal recessive, cytochrome b-positive, type III"	613960	0	0	NCF4	-	-
+24	614052	"Mitochondrial complex V (ATP synthase) deficiency, nuclear type 2, 614052 (3)"	614052	0	0	TMEM70	-	-
+25	614053	"Mitochondrial complex V (ATP synthase) deficiency, nuclear type 3, 614053 (3)"	614053	0	0	"ATP5E, ATP5F1E"	-	-
+14	614388	"Encephalopahty, lethal, due to defective mitochondrial peroxisomal fission, 614388 (3)"	614388	0	0	DNM1L	-	-
+401	614520	"ENCEPHALOMYOPATHY, MITOCHONDRIAL, DUE TO VOLTAGE-DEPENDENT ANION CHANNEL DEFICIENCY"	614520	0	0	-	-	-
+511	614924	"Combined oxidative phosphorylation deficiency 12, 614924 (3)"	614924	0	0	EARS2	-	-
+512	614932	"Combined oxidative phosphorylation deficiency 13, 614932 (3)"	614932	0	0	PNPT1	-	-
+641	615119	"Cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 2"	615119	0	0	COX15	-	-
+10	615228	"Mitochondrial complex (ATP synthase) deficiency, nuclear type 4, 615228 (3)"	615228	0	0	"ATP5A1, ATP5F1A"	-	-
+513	615440	"Combined oxidative phosphorylation deficiency 17, 615440 (3)"	615440	0	0	ELAC2	-	-
+514	615578	"Combined oxidative phosphorylation deficiency 18, 615578 (3)"	615578	0	0	SFXN4	-	-
+500	615595	"?Combined oxidative phosphorylation deficiency 19, 615595 (3)"	615595	0	0	LYRM4	-	-
+507	615824	"?Mitochondrial complex III deficiency, nuclear type 7, 615824 (3)"	615824	0	0	UQCC2	-	-
+528	615838	"Mitochondrial complex III deficiency, nuclear type 8, 615838 (3)"	615838	0	0	LYRM7	-	-
+515	615917	"Combined oxidative phosphorylation deficiency 20, 615917 (3)"	615917	0	0	VARS2	-	-
+501	615918	"?Combined oxidative phosphorylation deficiency 21, 615918 (3)"	615918	0	0	TARS2	-	-
+502	616045	"?Combined oxidative phosphorylation deficiency 22, 616045 (3)"	616045	0	0	"ATP5A1, ATP5F1A"	-	-
+508	616111	"?Mitochondrial complex III deficiency, nuclear type 9, 616111 (3)"	616111	0	0	UQCC3	-	-
+516	616198	"Combined oxidative phosphorylation deficiency 23, 616198 (3)"	616198	0	0	GTPBP3	-	-
+509	616209	"?Myopathy, isolated mitochondrial, autosomal dominant, 616209 (3)"	616209	0	0	CHCHD10	-	-
+517	616239	"Combined oxidative phosphorylation deficiency 24, 616239 (3)"	616239	0	0	NARS2	-	-
+529	616277	"Mitochondrial short-chain enoyl-CoA hydratase 1 deficiency, 616277 (3)"	616277	0	0	ECHS1	-	-
+530	616370	"Multiple mitochondrial dysfunctions syndrome 4, 616370 (3)"	616370	0	0	ISCA2	-	-
+503	616430	"?Combined oxidative phosphorylation deficiency 25, 616430 (3)"	616430	0	0	MARS2	-	-
+534	616479	"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 2, 616479 (3)"	616479	0	0	RNASEH1	-	-
+642	616500	"Cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 3"	616500	0	0	COA5	-	-
+643	616501	"Cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 4"	616501	0	0	COA6	-	-
+518	616539	"Combined oxidative phosphorylation deficiency 26, 616539 (3)"	616539	0	0	TRMT5	-	-
+519	616672	"Combined oxidative phosphorylation deficiency 27, 616672 (3)"	616672	0	0	CARS2	-	-
+520	616794	"Combined oxidative phosphorylation deficiency 28, 616794 (3)"	616794	0	0	SLC25A26	-	-
+504	616811	"?Combined oxidative phosphorylation deficiency 29, 616811 (3)"	616811	0	0	TXN2	-	-
+505	616896	"?Mitochondrial DNA depletion syndrome 14 (encephalocardiomyopathic type), 616896 (3)"	616896	0	0	OPA1	-	-
+521	616974	"Combined oxidative phosphorylation deficiency 30, 616974 (3)"	616974	0	0	TRMT10C	-	-
+510	617069	"?Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 3, 617069 (3)"	617069	0	0	TK2	-	-
+535	617070	"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 4, 617070 (3)"	617070	0	0	DGUOK	-	-
+525	617086	"Encephalopathy due to defective mitochondrial and peroxisomal fission 2, 617086 (3)"	617086	0	0	MFF	-	-
+506	617156	"?Mitochondrial DNA depletion syndrome 15 (hepatocerebral type), 617156 (3)"	617156	0	0	TFAM	-	-
+527	617184	"Mitochondrial DNA depletion syndrome 12A (cardiomyopathic type) AD, 617184 (3)"	617184	0	0	SLC25A4	-	-
+522	617228	"Combined oxidative phosphorylation deficiency 31, 617228 (3)"	617228	0	0	MIPEP	-	-
+531	617613	"Multiple mitochondrial dysfunctions syndrome 5, 617613 (3)"	617613	0	0	ISCA1	-	-
+523	617664	"Combined oxidative phosphorylation deficiency 32, 617664 (3)"	617664	0	0	MRPS34	-	-
+532	617675	"Myopathy, mitochondrial, and ataxia, 617675 (3)"	617675	0	0	MSTO1	-	-
+533	617710	"Neurodevelopmental disorder, mitochondrial, with abnormal movements and lactic acidosis, with or without seizures, 617710 (3)"	617710	0	0	WARS2	-	-
+524	617713	"Combined oxidative phosphorylation deficiency 33, 617713 (3)"	617713	0	0	C1QBP	-	-
+563	617872	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 34	617872	0	0	MRPS7	-	-
+564	617873	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 35	617873	0	0	TRIT1	-	-
+565	617950	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 36	617950	0	0	MRPS2	-	-
+568	617954	MULTIPLE MITOCHONDRIAL DYSFUNCTIONS SYNDROME 6	617954	0	0	PMPCB	-	-
+578	618098	"PROGRESSIVE EXTERNAL OPHTHALMOPLEGIA WITH MITOCHONDRIAL DNA DELETIONS, AUTOSOMAL RECESSIVE 5; PEOB5"	618098	0	0	TOP3A	-	-
+579	618120	"MITOCHONDRIAL COMPLEX V (ATP SYNTHASE) DEFICIENCY, NUCLEAR TYPE 5; MC5DN5"	618120	0	0	ATP5F1D	-	-
+580	618222	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 2; MC1DN2"	618222	0	0	NDUFS8	-	-
+581	618224	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 3; MC1DN3"	618224	0	0	NDUFS7	-	-
+582	618225	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 4; MC1DN4"	618225	0	0	NDUFV1	-	-
+583	618226	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 5; MC1DN5"	618226	0	0	NDUFS1	-	-
+584	618228	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 6; MC1DN6"	618228	0	0	NDUFS2	-	-
+585	618229	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 7; MC1DN7"	618229	0	0	NDUFV2	-	-
+586	618230	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 8; MC1DN8"	618230	0	0	NDUFS3	-	-
+587	618232	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 9; MC1DN9"	618232	0	0	NDUFS6	-	-
+588	618234	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 11; MC1DN11"	618234	0	0	NDUFAF1	-	-
+589	618235	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 13; MC1DN13"	618235	0	0	NDUFA2	-	-
+590	618236	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 14; MC1DN14"	618236	0	0	NDUFA11	-	-
+591	618237	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 15; MC1DN15"	618237	0	0	NDUFAF4	-	-
+592	618238	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 16; MC1DN16"	618238	0	0	NDUFAF5	-	-
+593	618239	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 17; MC1DN17"	618239	0	0	NDUFAF6	-	-
+594	618240	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 18; MC1DN18"	618240	0	0	NDUFAF3	-	-
+595	618241	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 19; MC1DN19"	618241	0	0	FOXRED1	-	-
+596	618242	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 21; MC1DN21"	618242	0	0	NUBPL	-	-
+597	618243	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 22; MC1DN22"	618243	0	0	NDUFA10	-	-
+598	618244	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 23; MC1DN23"	618244	0	0	NDUFA12	-	-
+599	618245	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 24; MC1DN24"	618245	0	0	NDUFB9	-	-
+600	618246	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 25; MC1DN25"	618246	0	0	NDUFB3	-	-
+601	618247	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 26; MC1DN26"	618247	0	0	NDUFA9	-	-
+602	618248	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 27; MC1DN27"	618248	0	0	MTFMT	-	-
+603	618249	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 28; MC1DN28"	618249	0	0	NDUFA13	-	-
+604	618250	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 29; MC1DN29"	618250	0	0	TMEM126B	-	-
+605	618251	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 31; MC1DN31"	618251	0	0	TIMMDC1	-	-
+606	618252	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 32; MC1DN32"	618252	0	0	NDUFB8	-	-
+607	618253	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 33; MC1DN33"	618253	0	0	NDUFA6	-	-
+608	618256	BIPARENTAL MITOCHONDRIAL DNA TRANSMISSION	618256	0	0	-	-	-
+646	618329	Combined oxidative phosphorylation deficiency 37	618329	0	0	-	-	-
+647	618378	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 38	618378	0	0	MRPS14	-	-
+648	618397	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 39	618397	0	0	GFM2	-	-
+434	ACADMD	"ACYL-CoA DEHYDROGENASE, MEDIUM-CHAIN, DEFICIENCY OF; ACADMD"	201450	0	0	ACADM	-	-
+435	ACADSD	"ACYL-CoA DEHYDROGENASE, SHORT-CHAIN, DEFICIENCY OF; ACADSD"	201470	0	0	ACADS	-	-
+436	ACADVLD	"ACYL-CoA DEHYDROGENASE, VERY LONG-CHAIN, DEFICIENCY OF; ACADVLD"	201475	0	0	ACADVL	-	-
+84	BJS	"Bjornstad syndrome, 262000 (3)"	262000	0	0	BCS1L	-	-
+399	BTHS	BARTH SYNDROME; BTHS	302060	0	0	TAZ	-	-
+437	CACTD	CARNITINE-ACYLCARNITINE TRANSLOCASE DEFICIENCY;CACTD	212138	0	0	SLC25A20	-	-
+444	CCDS3	CEREBRAL CREATINE DEFICIENCY SYNDROME 3; CCDS3	612718	0	0	GATM	-	-
+473	CDSP	"CARNITINE DEFICIENCY, SYSTEMIC PRIMARY; CDSP"	212140	0	0	SLC22A5	-	-
+482	CEMCOX1	"CARDIOENCEPHALOMYOPATHY, FATAL INFANTILE, DUE TO CYTOCHROME c OXIDASE DEFICIENCY 1; CEMCOX1"	604377	0	0	SCO2	-	-
+86	CMD1GG	"Cardiomyopathy, dilated, 1GG, 613642 (3)"	613642	0	0	SDHA	-	-
+488	CMT2A2	"CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2A2; CMT2A2"	609260	0	0	MFN2	-	-
+90	COQ10D1	"Coenzyme Q10 deficiency, primary, 1, 607426 (3)"	607426	0	0	COQ2	-	-
+446	COQ10D2	"COENZYME Q10 DEFICIENCY, PRIMARY, 2; COQ10D2"	614651	0	0	PDSS1	-	-
+447	COQ10D3	"COENZYME Q10 DEFICIENCY, PRIMARY, 3; COQ10D3"	614652	0	0	PDSS2	-	-
+443	COQ10D4	"COENZYME Q10 DEFICIENCY, PRIMARY, 4; COQ10D4"	612016	0	0	"ADCK3, COQ8A"	-	-
+448	COQ10D5	"COENZYME Q10 DEFICIENCY, PRIMARY, 5; COQ10D5"	614654	0	0	COQ9	-	-
+480	COQ10D6	"COENZYME Q10 DEFICIENCY, PRIMARY, 6; COQ10D6"	614650	0	0	COQ6	-	-
+639	COQ10D7	"COENZYME Q10 DEFICIENCY, PRIMARY, 7; COQ10D7"	616276	0	0	COQ4	-	"Primary coenzyme Q10 deficiency-7 (COQ10D7) is caused by homozygous or compound heterozygous mutation in the COQ4 gene (612898) on chromosome 9q34. ? Description Primary coenzyme Q10 deficiency-7 is an autosomal recessive disorder resulting from mitochondrial dysfunction. Most patients have onset of severe cardiac or neurologic symptoms soon after birth, usually resulting in death. Rare patients may have later onset with a more protracted course. Tissue samples from affected individuals show decreased levels of coenzyme Q10 (CoQ10) (summary by Brea-Calvo et al., 2015). For a general phenotypic description and a discussion of genetic heterogeneity of primary coenzyme Q10 deficiency, see COQ10D1 (607426)."
+640	COQ10D8	"COENZYME Q10 DEFICIENCY, PRIMARY, 8; COQ10D8"	616733	0	0	COQ7	-	"coenzyme Q10 deficiency-8 (COQ10D8) is caused by homozygous mutation in the COQ7 gene (601683) on chromosome 16p12. One such patient has been reported. For a general phenotypic description and a discussion of genetic heterogeneity of primary coenzyme Q10 deficiency, see COQ10D1 (607426)."
+92	COXPD1	"Combined oxidative phosphorylation deficiency 1, 609060 (3)"	609060	0	0	GFM1	-	-
+93	COXPD10	"Combined oxidative phosphorylation deficiency 10, 614702 (3)"	614702	0	0	MTO1	-	-
+423	COXPD11	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 11; COXPD11	614922	0	0	RMND1	-	-
+94	COXPD14	"Combined oxidative phosphorylation deficiency 14, 614946 (3)"	614946	0	0	FARS2	-	-
+95	COXPD15	"Combined oxidative phosphorylation deficiency 15, 614947 (3)"	614947	0	0	MTFMT	-	-
+80	COXPD16	"Combined oxidative phosphorylation deficiency 16, 615395 (3)"	615395	0	0	MRPL44	-	-
+96	COXPD2	"Combined oxidative phosphorylation deficiency 2, 610498 (3)"	610498	0	0	MRPS16	-	-
+97	COXPD3	"Combined oxidative phosphorylation deficiency 3, 610505 (3)"	610505	0	0	TSFM	-	-
+98	COXPD4	"Combined oxidative phosphorylation deficiency 4, 610678 (3)"	610678	0	0	TUFM	-	-
+99	COXPD5	"Combined oxidative phosphorylation deficiency 5, 611719 (3)"	611719	0	0	MRPS22	-	-
+411	COXPD6	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 6; COXPD6	300816	0	0	AIFM1	-	-
+493	COXPD7	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 7; COXPD7	613559	0	0	C12orf65	-	-
+76	COXPD8	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 8; COXPD8	614096	0	0	AARS2	-	-
+100	COXPD9	"Combined oxidative phosphorylation deficiency 9, 614582 (3)"	614582	0	0	MRPL3	-	-
+400	"CPEO,CPEO Plus"	"MITOCHONDRIAL MYOPATHY: CPEO, CPEO ""Plus"" DOID:12558, Chronic progressive external ophthalmoplegia"	251900	0	0	"MT-TA, MT-TL2, MT-TM, MT-TW"	-	-
+466	CPT II	"CARNITINE PALMITOYLTRANSFERASE II DEFICIENCY, INFANTILE;CPT2"	600649	0	0	", CPT2"	-	-
+88	CTLN2	"Citrullinemia, adult-onset type II, 603471 (3)"	603471	0	0	SLC25A13	-	-
+150	CVS	CYCLIC VOMITING SYNDROME; CVS	500007	0	0	MT-TL1	-	-
+91	D2L2AD	"Combined D-2- and L-2-hydroxyglutaric aciduria, 615182 (3)"	615182	0	0	SLC25A1	-	-
+489	DFNB1A	"DEAFNESS, AUTOSOMAL RECESSIVE 1A; DFNB1A"	220290	0	0	"GJB2, GJB3, GJB6"	-	-
+657	DOA+	"Optic atrophy plus syndrome, 125250, DOA+"	125250	0	0	OPA1	eyes	-
+573	EE 602473	"ENCEPHALOPATHY, ETHYLMALONIC; EE"	602473	0	0	ETHE1	-	-
+103	EIEE3	"Epileptic encephalopathy, early infantile, 3, 609304 (3)"	609304	0	0	SLC25A22	-	-
+491	FRDA;FRDA1;FA	"FRIEDREICH ATAXIA 1; FRDA;FRIEDREICH ATAXIA WITH RETAINED REFLEXES, INCLUDED; FARR, INCLUDED"	229300	0	0	FXN	-	-
+467	HADH Dificiency	3-@HYDROXYACYL-CoA DEHYDROGENASE; HADH	231530	0	0	", HADH"	-	-
+421	HLD4	"LEUKODYSTROPHY, HYPOMYELINATING, 4; HLD4"	612233	0	0	HSPD1	-	-
+476	HML	"MYOPATHY WITH LACTIC ACIDOSIS, HEREDITARY; HML"	255125	0	0	ISCU	-	-
+485	HSMN6	"NEUROPATHY, HEREDITARY MOTOR AND SENSORY, TYPE VI; HSMN6"	601152	0	0	MFN2	-	-
+108	ICRD	"Infantile cerebellar-retinal degeneration, 614559 (3)??mitochondrial?"	614559	0	0	ACO2	-	-
+143	KSS	"KEARNS-SAYRE SYNDROME, caused by various mitochondrial deletions"	530000	0	0	MT-TL1	-	-
+474	LCHAD	LONG-CHAIN 3-HYDROXYACYL-CoA DEHYDROGENASE DEFICIENCY	609016	0	0	", HADHA"	-	-
+149	LDYT	"LEBER OPTIC ATROPHY AND DYSTONIA, alt: LEBER HEREDITARY OPTIC NEUROPATHY WITH DYSTONIA; LDYT;; DYSTONIA, FAMILIAL, WITH VISUAL FAILURE AND STRIATAL LUCENCIES;; MARSDEN SYNDROME"	500001	0	0	"MT-ND1, MT-ND3, MT-ND4, MT-ND6"	-	-
+110	LFIT	"Liver failure, transient infantile, 613070 (3)"	613070	0	0	"TRMU, TRNT1"	-	-
+72	LHON	"LEBER OPTIC ATROPHY, LEBER HEREDITARY OPTIC NEUROPATHY; DOID:705"	535000	0	0	", MT-ATP6, MT-CO3, MT-CYB, MT-ND1, MT-ND2, MT-ND4, MT-ND4L, MT-ND5, MT-ND6"	-	-
+172	LIMM	"MITOCHONDRIAL MYOPATHY, LETHAL, INFANTILE"	551000	0	0	-	-	-
+638	LKENP	"LEUKOENCEPHALOPATHY, PROGRESSIVE, WITH OVARIAN FAILURE; LKENP"	615889	0	0	AARS2	-	"OMIM: Description Progressive leukoencephalopathy with ovarian failure is an autosomal recessive neurodegenerative disorder characterized by loss of motor and cognitive skills, usually with onset in young adulthood. Some patients may have a history of delayed motor development or learning difficulties in early childhood. Neurologic decline is severe, usually resulting in gait difficulties, ataxia, spasticity, and cognitive decline and dementia. Most patients lose speech and become wheelchair-bound or bedridden. Brain MRI shows progressive white matter signal abnormalities in the deep white matter. Affected females develop premature ovarian failure (summary by Dallabona et al., 2014). ? Clinical Features Dallabona et al. (2014) reported 5 unrelated women and 1 man with a progressive leukoencephalopathic neurodegenerative disorder. Two patients, a female and a male, had symptoms in early childhood, 1 manifesting mildly delayed motor development and the other manifesting congenital nystagmus and learning difficulties. These patients developed further neurologic symptoms in their teenage years, including progressive gait ataxia, tremor, spasticity, dystonia, dysarthria, and cognitive decline. The girl developed secondary amenorrhea due to ovarian failure at age 18 years. Four additional women presented with ovarian failure between the ages of 20 and 40, and subsequently developed progressive and severe neurodegeneration resulting in loss of motor skills, speech, and cognition by the mid-thirties to forties. Most of the 6 patients either became wheelchair-bound or bedridden, and 2 died. One patient had no cognitive decline at age 25. Investigation of mitochondrial function performed in 2 patients showed severe isolated cytochrome c oxidase deficiency (15% and 33% residual activity, respectively) in skeletal muscle, although respiratory chain activities were normal in fibroblasts. Ragged-red fibers were not present. Brain MRI of all patients showed patchy and inhomogeneous cerebral white matter abnormalities predominantly affecting the frontal and parietal periventricular and deep white matter, and often affecting the corpus callosum. Cerebellar atrophy was variable. None of the patients had cardiomyopathy."
+492	LOAS	"LEBER OPTIC ATROPHY, SUSCEPTIBILITY TO;LHON, MODIFIER OF;LOAS"	308905	0	0	-	-	-
+15	LS	"Leigh syndrome due to mitochondrial complex 1 deficiency, 256000 (3)"	256000	0	0	LIPT1	-	-
+389	LSFC	"Leigh syndrome, French-Canadian type, 220111 (3)"	220111	0	0	LRPPRC	-	-
+406	LUFT	HYPERMETABOLISM DUE TO DEFECT IN MITOCHONDRIA;LUFT DISEASE	238800	0	0	-	-	-
+439	MADD	MULTIPLE ACYL-CoA DEHYDROGENASE DEFICIENCY; MADD	231680	0	0	", ETFA, ETFB, ETFDH"	-	-
+574	MC1DN10 618233	"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 10; MC1DN10"	618233	0	0	NDUFAF2	-	"Mitochondrial complex I deficiency nuclear type 10 (MC1DN10) is caused by homozygous mutation in the NDUFAF2 gene (609653) on chromosome 5q12. For a discussion of genetic heterogeneity of mitochondrial complex I deficiency, see 252010."
+17	MC3DN1	"Mitochondrial complex III deficiency, nuclear type 1, 124000 (3)"	124000	0	0	"BCS1L, UQCRB"	-	-
+18	MC3DN2	"Mitochondrial complex III deficiency, nuclear type 2, 615157 (3)"	615157	0	0	TTC19	-	-
+19	MC3DN3	"Mitochondrial complex III deficiency, nuclear type 3, 615158 (3)"	615158	0	0	", UQCRB"	-	-
+20	MC3DN4	"Mitochondrial complex III deficiency, nuclear type 4, 615159 (3)"	615159	0	0	UQCRQ	-	-
+21	MC3DN5	"Mitochondrial complex III deficiency, nuclear type 5, 615160 (3)"	615160	0	0	UQCRC2	-	-
+22	MC3DN6	"Mitochondrial complex III deficiency, nuclear type 6, 615453 (3)"	615453	0	0	CYC1	-	-
+112	MCPHA	"Microcephaly, Amish type, 607196 (3)"	607196	0	0	SLC25A19	-	-
+415	MDCMC	"MUSCULAR DYSTROPHY, CONGENITAL, MEGACONIAL TYPE; MDCMC"	602541	0	0	CHKB	-	-
+484	MEGDEL	"3-METHYLGLUTACONIC ACIDURIA WITH DEAFNESS, ENCEPHALOPATHY, AND LEIGH-LIKE SYNDROME; MEGDEL"	614739	0	0	SERAC1	-	-
+163	MELAS SYNDROME	"MITOCHONDRIAL MYOPATHY, ENCEPHALOPATHY, LACTIC ACIDOSIS, AND STROKE-LIKE EPISODES;DOID:3687"	540000	1	1	"MT-ND1, MT-ND4, MT-ND5, MT-ND6, MT-TC, MT-TF, MT-TH, MT-TK, MT-TL1, MT-TQ, MT-TS1, MT-TS2"	-	-
+162	MERRF	MYOCLONIC EPILEPSY ASSOCIATED WITH RAGGED-RED FIBERS; MERRF SYNDROME	545000	1	0	"MT-ND5, MT-TF, MT-TH, MT-TK, MT-TL1, MT-TS1, MT-TS2"	-	-
+495	MGCA1	"3-METHYLGLUTACONIC ACIDURIA, TYPE I; MGCA1"	250950	0	0	AUH	-	-
+496	MGCA3	"3-METHYLGLUTACONIC ACIDURIA, TYPE III; MGCA3"	258501	0	0	OPA3	-	-
+79	MGCA5	"3-METHYLGLUTACONIC ACIDURIA, TYPE V; MGCA5"	610198	0	0	DNAJC19	-	-
+165	MIDD	"DIABETES AND DEAFNESS, MATERNALLY INHERITED;MIDD"	520000	0	0	"MT-TE, MT-TK, MT-TL1"	-	-
+39	MLASA1	"Mitochondrial myopathy and sideroblastic anemia 1, 600462 (3)"	600462	0	0	", PUS1"	-	-
+472	MLASA2	"MYOPATHY, LACTIC ACIDOSIS, AND SIDEROBLASTIC ANEMIA 2; MLASA2"	613561	0	0	YARS2	-	-
+572	MLASA3	"500011 MYOPATHY, LACTIC ACIDOSIS, AND SIDEROBLASTIC ANEMIA 3; MLASA3"	500011	0	0	MT-ATP6	-	"Evidence that myopathy, lactic acidosis, and sideroblastic anemia-3 (MLASA3) is caused by heteroplasmic mutation in the mitochondrial-encoded ATP6 gene (MTATP6; 516060). One such patient has been reported. ? Description MLASA3 is a severe mitochondrial disorder with early infantile presentation of transfusion-dependent sideroblastic anemia in the setting of failure to thrive, hearing loss, epilepsy, stroke-like episodes, and severe developmental delay (summary by Burrage et al., 2014). For a general phenotypic description and a discussion of genetic heterogeneity of MLASA, see MLASA1 (600462)"
+43	MMDS1	"Multiple mitochondrial dysfunctions syndrome 1, 605711 (3)"	605711	0	0	NFU1	-	-
+44	MMDS2	"Multiple mitochondrial dysfunctions syndrome 2, 614299 (3)"	614299	0	0	BOLA3	-	-
+13	MMDS3	"Multiple mitochondrial dysfunctions syndrome 3, 615330 (3)"	615330	0	0	IBA57	-	-
+158	MMIT	"MITOCHONDRIAL MYOPATHY, INFANTILE, TRANSIENT;MMIT"	500009	0	0	MT-TE	-	-
+41	MPYCD	"Mitochondrial pyruvate carrier deficiency, 614741 (3)"	614741	0	0	MPC1	-	-
+494	MSL	"LIPOMATOSIS, MULTIPLE SYMMETRIC; MSL"	151800	0	0	MFN2	-	-
+141	MTATP6	"ATP SYNTHASE 6;;MITOCHONDRIAL COMPLEX V (ATP SYNTHASE) DEFICIENCY, MITOCHONDRIAL TYPE 1, INCLUDED"	516060	0	0	", MT-ATP6"	-	-
+465	MTCYB	CYTOCHROME b OF COMPLEX III; MTCYB	516020	0	0	", MT-CYB"	-	-
+26	MTDPS1	"Mitochondrial DNA depletion syndrome 1 (MNGIE type), 603041 (3)"	603041	0	0	"MT-TK, POLG, TYMP"	-	-
+27	MTDPS11	"Mitochondrial DNA depletion syndrome 11, 615084 (3)"	615084	0	0	MGME1	-	-
+28	MTDPS12	"Mitochondrial DNA depletion syndrome 12 (cardiomyopathic type), 615418 (3)"	615418	0	0	SLC25A4	-	-
+29	MTDPS13	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type);MTDPS13	615471	0	0	FBXL4	-	-
+30	MTDPS2	"Mitochondrial DNA depletion syndrome 2 (myopathic type), 609560 (3)"	609560	0	0	TK2	-	-
+31	MTDPS3	"Mitochondrial DNA depletion syndrome 3 (hepatocerebral type), 251880 (3)"	251880	0	0	"C10orf2, DGUOK"	-	-
+32	MTDPS4A	"Mitochondrial DNA depletion syndrome 4A (Alpers type), 203700"	203700	0	0	POLG	-	-
+33	MTDPS4B	"Mitochondrial DNA depletion syndrome 4B (MNGIE type), 613662 (3)"	613662	0	0	POLG	-	-
+35	MTDPS6	"Mitochondrial DNA depletion syndrome 6 (hepatocerebral type), 256810 (3)"	256810	0	0	MPV17	-	-
+36	MTDPS7	"Mitochondrial DNA depletion syndrome 7 (hepatocerebral type), 271245 (3)"	271245	0	0	"C10orf2, TWNK"	-	-
+113	MTS	"Mohr-Tranebjaerg syndrome, 304700 (3)"	304700	0	0	TIMM8A	-	-
+168	NARP SYNDROME	"NEUROPATHY, ATAXIA, AND RETINITIS PIGMENTOSA;NARP SYNDROME"	551500	0	0	MT-ATP6	-	-
+422	NBIA4	NEURODEGENERATION WITH BRAIN IRON ACCUMULATION 4; NBIA4	614298	0	0	C19orf12	-	-
+392	NF2	"Neurofibromatosis, type 2, 101000 (3)"	101000	0	0	NF2	-	-
+102	NIDDM	"Diabetes mellitus, noninsulin-dependent, 125853 (3)"	125853	0	0	"ABCC8, AKT2, CAPN10, CDKAL1, ENPP1, GCGR, GCK, GPD2, HMGA1, HNF1A, HNF1B, HNF4A, IGF2BP2, IL6, INSR, IRS1, IRS2, KCNJ11, LIPC, MAPK8IP1, 13 more"	-	-
+73	OPA1	OPTIC ATROPHY 1; OPA1	165500	0	0	OPA1	-	-
+420	PCH6	"PONTOCEREBELLAR HYPOPLASIA, TYPE 6; PCH6"	611523	0	0	RARS2	-	-
+442	PDHAD	PYRUVATE DEHYDROGENASE E1-ALPHA DEFICIENCY; PDHAD	312170	0	0	", PDHA1"	-	-
+478	PDHBD	PYRUVATE DEHYDROGENASE E1-BETA DEFICIENCY; PDHBD	614111	0	0	PDHB	-	-
+475	PDHDD	PYRUVATE DEHYDROGENASE E2 DEFICIENCY; PDHDD	245348	0	0	DLAT	-	-
+479	PDHLD	PYRUVATE DEHYDROGENASE LIPOIC ACID SYNTHETASE DEFICIENCY; PDHLD	614462	0	0	LIAS	-	-
+477	PDHPD	PYRUVATE DEHYDROGENASE PHOSPHATASE DEFICIENCY; PDHPD	608782	0	0	PDP1	-	-
+117	PEOA1	"Progressive external ophthalmoplegia, autosomal dominant, 157640 (3)"	157640	0	0	POLG	-	-
+74	PEOA3	"PROGRESSIVE EXTERNAL OPHTHALMOPLEGIA WITH MITOCHONDRIAL DNA DELETIONS, AUTOSOMAL DOMINANT, 3; PEOA3"	609286	0	0	"C10orf2, TWNK"	-	-
+49	PEOA5	"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal dominant, 5, PEOA5"	613077	0	0	RRM2B	-	-
+50	PEOA6	"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal dominant, 6, PEOA6"	615156	0	0	DNA2	-	-
+125	PHN	"{Pulmonary hypertension, neonatal, susceptibility to}, 615371 (3)"	615371	0	0	CPS1	-	-
+483	PRLTS2	PERRAULT SYNDROME 2; PRLTS2	614926	0	0	HARS2	-	-
+116	PRLTS4	"Perrault syndrome 4, 615300 (3)"	615300	0	0	LARS2	-	-
+42	SANDO	"Mitochondrial recessive ataxia syndrome (includes SANDO and SCAE), 607459 (3)"	607459	0	0	"C10orf2, POLG"	-	-
+498	SCA28	SPINOCEREBELLAR ATAXIA 28; SCA28	610246	0	0	AFG3L2	-	-
+75	SNDI	"STRIATONIGRAL DEGENERATION, INFANTILE; SNDI"	271930	0	0	NUP62	-	-
+83	SPAX4	"Ataxia, spastic, 4, 613672 (3)"	613672	0	0	MTPAP	-	-
+497	SPG7	"SPASTIC PARAPLEGIA 7, AUTOSOMAL RECESSIVE; SPG7"	607259	0	0	SPG7	-	-
+490	WFS2	WOLFRAM SYNDROME 2; WFS2	604928	0	0	CISD2	-	-

@@ -1,0 +1,285 @@
+Symbol	Gene	Chr	Band	Transcripts	Variants	Unique variants	Last updated	Associated with diseases
+ACADM	acyl-CoA dehydrogenase, C-4 to C-12 straight chain	1	p31	2	217	205		ACADMD
+ACAT1	acetyl-CoA acetyltransferase 1	11	q22.3	1	95	85		203750
+ASS1	argininosuccinate synthase 1	9	q34.1	2	15	15		-
+BRCA2	breast cancer 2, early onset	13	q12-q13	1	1	1	15-09-2014	-
+CPT2	carnitine palmitoyltransferase 2	1	p32	1	100	87		255110, 608836, CPT II
+CYBA	cytochrome b-245, alpha polypeptide	16	q24	1	31	31		233690
+DLD	dihydrolipoamide dehydrogenase	7	q31-q32	1	42	42		-
+TAZ	tafazzin	X	q28	5	403	233		BTHS
+ETFA	electron-transfer-flavoprotein, alpha polypeptide	15	q23-q25	2	29	28		MADD
+FTL	ferritin, light polypeptide	19	q13.33	1	1	1	18-04-2014	-
+GCDH	glutaryl-CoA dehydrogenase	19	p13.2	2	9	9		-
+GLDC	glycine dehydrogenase (decarboxylating)	9	p22	1	311	310		605899 GCE
+GUCY2D	guanylate cyclase 2D, membrane (retina-specific)	17	p13.1	1	5	5	10-12-2013	-
+HADHA	hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), alpha subunit	2	p23	3	130	123		609015, LCHAD
+HADHB	hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), beta subunit	2	p23	1	64	59		609015
+INSR	insulin receptor	19	p13.3-p13.2	1	5	3	26-11-2013	NIDDM
+MYH7	myosin, heavy chain 7, cardiac muscle, beta	14	q11.2-q13	4	36	36		-
+PDHA1	pyruvate dehydrogenase (lipoamide) alpha 1	X	p22.1	4	58	46		308930, PDHAD
+PROS1	protein S (alpha)	3	q11.1	1	28	28	18-04-2014	-
+SGCD	sarcoglycan, delta (35kDa dystrophin-associated glycoprotein)	5	q33-q34	6	1	1		-
+TNNI3	troponin I type 3 (cardiac)	19	q13.4	1	6	6	18-04-2014	-
+TPMT	thiopurine S-methyltransferase	6	p22.3	1	3	3	18-08-2014	-
+GPD2	glycerol-3-phosphate dehydrogenase 2 (mitochondrial)	2	q24.1	2	2	1		NIDDM
+HFE	hemochromatosis	6	p21.3	12	9	9		-
+NCF2	neutrophil cytosolic factor 2	1	q25.3	1	49	49	16-06-2019	233710
+PSEN2	presenilin 2	1	q42.13	1	1	1	18-04-2014	-
+HNF1B	HNF1 homeobox B	17	q12	1	4	3	26-11-2013	NIDDM
+PEX1	peroxisomal biogenesis factor 1	7	q21.2	1	1	1	10-12-2013	-
+LDLR	low density lipoprotein receptor	19	p13.2	1	2	2	18-04-2014	-
+TP53	tumor protein p53	17	p13.1	8	1	1		-
+WRN	Werner syndrome RecQ like helicase	8	p12	1	1	1	25-06-2018	-
+CRX	cone-rod homeobox	19	q13.3	1	3	3	10-12-2013	-
+NCF4	neutrophil cytosolic factor 4	22	q12.3	1	26	26	16-06-2019	613960
+ALDH2	aldehyde dehydrogenase 2 family (mitochondrial)	12	q24.12	2	4	2		610251
+IMPDH1	IMP (inosine 5'-monophosphate) dehydrogenase 1	7	q31.3-q32	1	2	2	10-12-2013	-
+PC	pyruvate carboxylase	11	q13.4-q13.5	6	126	95		266150
+PDHB	pyruvate dehydrogenase (lipoamide) beta	3	p21.1-p14.2	3	6	4		PDHBD
+POR	cytochrome p450 oxidoreductase	7	q11.23	1	13	13	17-06-2019	613571
+RPL13	ribosomal protein L13	16	q24.3	1	9	9	25-06-2018	-
+TIMM50	translocase of inner mitochondrial membrane 50 homolog (S. cerevisiae)	19	q13.2	1	2	2		-
+ATP5A1	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1, cardiac muscle	18	q21	3	3	2		615228, 616045
+ATP5D	ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit	19	p13.3	2	2	2		-
+PUS1	pseudouridylate synthase 1	12	q24	3	34	30		MLASA1
+NFU1	NFU1 iron-sulfur cluster scaffold homolog (S. cerevisiae)	2	p15-p13	5	28	27		MMDS1
+CISD2	CDGSH iron sulfur domain 2	4	q24	2	1	1		WFS2
+COA6	cytochrome c oxidase assembly factor 6	1	q42.2	1	3	3	17-06-2019	616501
+ETFB	electron-transfer-flavoprotein, beta polypeptide	19	q13.3-q13.4	2	14	14		MADD
+OPA3	optic atrophy 3 (autosomal recessive, with chorea and spastic paraplegia)	19	q13.2-q13.3	2	186	184		MGCA3
+TPM1	tropomyosin 1 (alpha)	15	q22.1	1	14	14	18-04-2014	-
+HNF4A	hepatocyte nuclear factor 4, alpha	20	q13.12	1	6	5	26-11-2013	NIDDM
+CPT1A	carnitine palmitoyltransferase 1A (liver)	11	q13.2	5	101	71		255120
+CDKL5	cyclin-dependent kinase-like 5	X	p22	2	10	10		-
+HSD17B10	hydroxysteroid (17-beta) dehydrogenase 10	X	p11.2	2	13	13		300438
+SLC2A4	solute carrier family 2 (facilitated glucose transporter), member 4	17	p13	1	2	1	26-11-2013	NIDDM
+COA3	cytochrome c oxidase assembly factor 3	17	q21.31	1	2	2		-
+YARS2	tyrosyl-tRNA synthetase 2, mitochondrial	12	p11.21	4	65	60		MLASA2
+TMEM70	transmembrane protein 70	8	q21.11	3	63	61		614052
+PREPL	prolyl endopeptidase-like	2	p22.1	7	3	3		-
+CEP85L	centrosomal protein 85kDa-like	6	q22.31	1	3	3	18-04-2014	-
+BCS1L	BC1 (ubiquinol-cytochrome c reductase) synthesis-like	2	q35	2	88	71		603358, BJS, MC3DN1
+LDB3	LIM domain binding 3	10	q22.3-q23.2	1	8	8	18-04-2014	-
+FTO	fat mass and obesity associated	16	q12.2	1	1	1	15-08-2014	-
+EARS2	glutamyl-tRNA synthetase 2, mitochondrial	16	p12.3	2	71	64		614924
+ACTN2	actinin, alpha 2	1	q42-q43	2	1	1	18-04-2014	-
+GIGYF2	GRB10 interacting GYF protein 2	2	q37.1	1	3	3	10-12-2013	-
+TYMP	thymidine phosphorylase	22	q13	4	127	118		MTDPS1
+CPS1	carbamoyl-phosphate synthase 1, mitochondrial	2	p	3	210	200		237300, PHN
+MTO1	mitochondrial tRNA translation optimization 1	6	q14.1	3	52	48		COXPD10
+SLC25A19	solute carrier family 25 (mitochondrial thiamine pyrophosphate carrier), member 19	17	q25.1	3	22	21		MCPHA
+POLG	polymerase (DNA directed), gamma	15	q24	2	772	651		258450, MTDPS1, MTDPS4A, MTDPS4B, PEOA1, SANDO
+MFN2	mitofusin 2	1	p36.22	2	40	35		CMT2A2, HSMN6, MSL
+AIFM1	apoptosis-inducing factor, mitochondrion-associated, 1	X	q26.1	5	37	37		COXPD6
+PDHX	pyruvate dehydrogenase complex, component X	11	p13	3	4	4		-
+NDUFB11	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 11, 17.3kDa	X	p11.3	2	2	2		252010, 301021
+FASTKD2	FAST kinase domains 2	2	q33.3	3	84	83		220110
+SLC6A8	solute carrier family 6 (neurotransmitter transporter), member 8	X	q28	3	14	13		-
+NGLY1	N-glycanase 1	3	p23	7	10	10		-
+WFS1	Wolfram syndrome 1 (wolframin)	4	p16.1	2	18	18		NIDDM
+SLC25A4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4	4	q35	1	66	60		609283, 617184, MTDPS12
+SLC25A13	solute carrier family 25 (aspartate/glutamate carrier), member 13	7	q21.3	3	53	35		605814, CTLN2
+PDP1	pyruvate dehyrogenase phosphatase catalytic subunit 1	8	q22.1	5	46	45		PDHPD
+C10orf2	chromosome 10 open reading frame 2	10	q24	5	101	83		MTDPS3, MTDPS7, PEOA3, SANDO
+DDHD2	DDHD domain containing 2	8	p11.23	1	1	1	25-06-2018	-
+SLC37A4	solute carrier family 37 (glucose-6-phosphate transporter), member 4	11	q23.3	5	381	379		-
+SLC25A26	solute carrier family 25 (S-adenosylmethionine carrier), member 26	3	p14.2	1	4	4		616794
+ELAC2	elaC ribonuclease Z 2	17	p11.2	3	76	72		615440
+NDUFV1	NADH dehydrogenase (ubiquinone) flavoprotein 1, 51kDa	11	q13	2	44	41		252010, 618225
+NDUFS2	NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase)	1	q23.3	4	48	45		252010, 618228
+KCNJ11	potassium inwardly-rectifying channel, subfamily J, member 11	11	p15.1	2	7	6		NIDDM
+VARS2	valyl-tRNA synthetase 2, mitochondrial	6	p21.33	3	13	10		615917
+SCO2	SCO2 cytochrome c oxidase assembly protein	22	q13.33	4	90	76		CEMCOX1
+TSFM	Ts translation elongation factor, mitochondrial	12	q14.1	4	34	33		COXPD3
+FLAD1	flavin adenine dinucleotide synthetase 1	1	q22	8	9	9		-
+NCAPH2	non-SMC condensin II complex, subunit H2	22	q13.33	3	35	21	17-04-2014	-
+NDUFA2	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2, 8kDa	5	q31.2	3	11	11		618235
+DNAJC19	DnaJ (Hsp40) homolog, subfamily C, member 19	3	q26.33	7	26	22		MGCA5
+SLC25A22	solute carrier family 25 (mitochondrial carrier: glutamate), member 22	11	p15.5	3	18	15		EIEE3
+NDUFA11	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 11, 14.7kDa	19	p13.3	3	17	17		252010, 618236
+TMEM126B	transmembrane protein 126B	11	q14.1	5	4	4		252010, 618250
+AK2	adenylate kinase 2	1	p35.1	5	34	27		267500
+UQCRB	ubiquinol-cytochrome c reductase binding protein	8	q22	4	1	1		MC3DN1, MC3DN3
+NDUFS1	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)	2	q33-q34	5	64	56		252010, 618226
+NUBPL	nucleotide binding protein-like	14	q12	2	80	77		252010, 618242
+BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	2	q33-q34	1	16	16	18-04-2014	-
+C1QBP	complement component 1, q subcomponent binding protein	17	p13.3	1	6	6		617713
+PNPLA8	patatin like phospholipase domain containing 8	7	q31	12	2	2		251950
+NDUFB3	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 3, 12kDa	2	q33.1	2	3	2		252010, 618246
+IL4I1	interleukin 4 induced 1	19	q13.3-q13.4	1	2	1	26-11-2013	-
+NDUFA12	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 12	12	q22	2	2	1		618244
+TFAM	transcription factor A, mitochondrial	10	q21	3	1	1		617156
+SLC25A10	solute carrier family 25 (mitochondrial carrier; dicarboxylate transporter), member 10	17	q25.3	3	3	3		-
+TARS2	threonyl-tRNA synthetase 2, mitochondrial (putative)	1	q21.2	3	5	3		615918
+RMND1	required for meiotic nuclear division 1 homolog (S. cerevisiae)	6	q25.1	3	16	14		COXPD11
+MFF	mitochondrial fission factor	2	q36	24	5	5		617086
+DNM1L	dynamin 1-like	12	p11.21	9	24	24		614388
+HARS2	histidyl-tRNA synthetase 2, mitochondrial	5	q31.3	4	10	9		PRLTS2
+SURF1	surfeit 1	9	q33-q34	2	54	51		220110
+DARS	aspartyl-tRNA synthetase	2	q21.3	1	2	2	15-08-2014	-
+DLG4	discs, large homolog 4 (Drosophila)	17	p13.1	1	19	18	15-08-2014	-
+GATM	glycine amidinotransferase (L-arginine:glycine amidinotransferase)	15	q15.1	1	60	54		CCDS3
+COL2A1	collagen, type II, alpha 1	12	q12-q13.2	1	4	4	10-12-2013	-
+COL6A2	collagen, type VI, alpha 2	21	q22.3	1	1	1	18-04-2014	-
+COX6B1	cytochrome c oxidase subunit VIb polypeptide 1 (ubiquitous)	19	q13.1	1	10	7	21-01-2015	220110
+CYC1	cytochrome c-1	8	q24	1	4	2		MC3DN6
+DES	desmin	2	q35	1	3	3	18-04-2014	-
+DLAT	dihydrolipoamide S-acetyltransferase	11	q23.1	1	14	13		PDHDD
+HSPD1	heat shock 60kDa protein 1 (chaperonin)	2	q33.1	2	2	1		HLD4
+IDH2	isocitrate dehydrogenase 2 (NADP+), mitochondrial	15	q26.1	3	7	5		613657
+LAMB1	laminin subunit beta 1	7	q31.1	1	1	1	25-06-2018	-
+MYH6	myosin, heavy chain 6, cardiac muscle, alpha	14	q11.2-q13	1	3	3	18-04-2014	-
+NDUFA6	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 6, 14kDa	22	q13.2	1	6	6		618253
+NDUFS4	NADH dehydrogenase (ubiquinone) Fe-S protein 4, 18kDa (NADH-coenzyme Q reductase)	5	q11.1	2	26	22		252010
+NDUFS8	NADH dehydrogenase (ubiquinone) Fe-S protein 8, 23kDa (NADH-coenzyme Q reductase)	11	q13.2	1	36	29		252010, 618222
+NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	1	p13.2	1	8	7	18-08-2014	-
+SLC25A3	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3	12	q23.1	3	23	22		610773
+PLN	phospholamban	6	q22.1	1	3	3	18-04-2014	-
+PSAP	prosaposin	10	q22.1	1	2	2	25-06-2018	-
+RNASEH1	ribonuclease H1	2	p25	3	3	3		616479
+SDC4	syndecan 4	20	q13.12	1	5	5	25-06-2018	-
+SLPI	secretory leukocyte peptidase inhibitor	20	q13.12	1	1	1	25-06-2018	-
+SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	19	p13.2	1	1	1	25-06-2018	-
+SPG7	spastic paraplegia 7 (pure and complicated autosomal recessive)	16	q24.3	3	90	90		SPG7
+STXBP1	syntaxin binding protein 1	9	q34.1	1	5	5	18-04-2014	-
+TMPO	thymopoietin	12	q22	1	1	1	18-04-2014	-
+TUFM	Tu translation elongation factor, mitochondrial	16	p11.2	1	40	39		COXPD4
+UQCRC2	ubiquinol-cytochrome c reductase core protein II	16	p12	1	2	1		MC3DN5
+VRK1	vaccinia related kinase 1	14	q32.2	1	2	2	18-04-2014	-
+ZBTB17	zinc finger and BTB domain containing 17	1	p36.13	1	1	1	18-04-2014	-
+SLC25A12	solute carrier family 25 (aspartate/glutamate carrier), member 12	2	q24	2	41	40		612949
+SUCLG1	succinate-CoA ligase, alpha subunit	2	p11.3	1	47	44		245400
+SUCLA2	succinate-CoA ligase, ADP-forming, beta subunit	13	q12.2-q13.3	4	50	46		612073
+BCL10	B-cell CLL/lymphoma 10	1	p22	1	12	7	18-08-2014	-
+GJB2	gap junction protein, beta 2, 26kDa	13	q11-q12	1	161	160	10-12-2013	DFNB1A
+DMD	dystrophin	X	p21.2	1	7	7	18-04-2014	-
+COX8A	cytochrome c oxidase subunit VIIIA (ubiquitous)	11	q12-q13	1	1	1		220110
+TIMM8A	translocase of inner mitochondrial membrane 8 homolog A (yeast)	X	q22	3	16	13		MTS
+ECHS1	enoyl CoA hydratase, short chain, 1, mitochondrial	10	q26.2-q26.3	1	19	19		616277
+SDHA	succinate dehydrogenase complex, subunit A, flavoprotein (Fp)	5	p15	5	577	568		252011, CMD1GG
+PKMYT1	protein kinase, membrane associated tyrosine/threonine 1	16	p13.3	1	2	2	18-08-2014	-
+PMPCB	peptidase (mitochondrial processing) beta	7	q22.1	4	5	5		617954
+BAG3	BCL2-associated athanogene 3	10	q25.2-q26.2	1	6	6	18-04-2014	-
+COL6A3	collagen, type VI, alpha 3	2	q37	1	2	2	18-04-2014	-
+COX15	cytochrome c oxidase assembly homolog 15 (yeast)	10	q24	3	84	83		615119
+DSP	desmoplakin	6	p24.3	1	6	6	18-04-2014	-
+ETFDH	electron-transferring-flavoprotein dehydrogenase	4	q32-q35	1	55	55		MADD
+GCSH	glycine cleavage system protein H (aminomethyl carrier)	16	q23.2	2	16	16		605899 GCE
+NDUFA1	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 1, 7.5kDa	X	q24	1	6	3		252010, 301020
+NDUFA10	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 10, 42kDa	2	q37.3	1	71	69		618243
+NDUFB10	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 10, 22kDa	16	p13.3	1	2	2	31-07-2018	-
+NDUFS3	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase)	11	p11.11	1	18	16		252010, 618230
+NDUFS6	NADH dehydrogenase (ubiquinone) Fe-S protein 6, 13kDa (NADH-coenzyme Q reductase)	5	p15.33	1	12	11		252010, 618232
+SCO1	SCO1 cytochrome c oxidase assembly protein	17	p13.1	1	34	33		220110
+AIMP1	aminoacyl tRNA synthetase complex-interacting multifunctional protein 1	4	q24	1	1	1	18-04-2014	-
+NDUFA9	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 9, 39kDa	12	p13.3	1	4	3		618247
+NDUFB8	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 8, 19kDa	10	q24.31	3	4	4		618252
+NDUFB9	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 9, 22kDa	8	q24.13	4	1	1		252010, 618245
+OXA1L	oxidase (cytochrome c) assembly 1-like	14	q11.2	1	2	2		-
+PPARG	peroxisome proliferator activated receptor gamma	3	p25.2	1	17	17	25-06-2018	601665, NIDDM
+MED12	mediator complex subunit 12	X	q13	1	2	2	17-04-2014	-
+ACTC1	actin, alpha, cardiac muscle 1	15	q14	1	3	3	18-04-2014	-
+CACNA1F	calcium channel, voltage-dependent, L type, alpha 1F subunit	X	p11.23	1	1	1	13-02-2015	-
+GFER	growth factor, augmenter of liver regeneration	16	p13.3-p13.12	1	5	4		613076
+MAPK8IP1	mitogen-activated protein kinase 8 interacting protein 1	11	p11.2	1	2	1	26-11-2013	NIDDM
+ABI1	abl interactor 1	10	p12.1	1	3	3	16-06-2019	-
+IRS1	insulin receptor substrate 1	2	q36	1	8	7	26-11-2013	NIDDM
+USH1C	Usher syndrome 1C (autosomal recessive, severe)	11	p14.3	1	50	50	10-12-2013	500004
+MIPEP	mitochondrial intermediate peptidase	13	q12	1	9	9		617228
+SLC25A1	solute carrier family 25 (mitochondrial carrier; citrate transporter), member 1	22	q11	4	12	6		D2L2AD
+TBX3	T-box transcription factor 3	12	q24.21	1	1	1	17-06-2019	-
+ENPP1	ectonucleotide pyrophosphatase/phosphodiesterase 1	6	q22-q23	1	4	2	26-11-2013	601665, NIDDM
+PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha	3	q26.3	1	2	2	18-08-2014	-
+IGF2BP2	insulin-like growth factor 2 mRNA binding protein 2	3	q27.2	1	2	1	15-09-2014	NIDDM
+FARS2	phenylalanyl-tRNA synthetase 2, mitochondrial	6	p25.1	5	82	79		COXPD14
+AFG3L2	AFG3-like AAA ATPase 2	18	p11.21	1	14	14		SCA28
+ATP5E	ATP synthase, H+ transporting, mitochondrial F1 complex, epsilon subunit	20	q13.3	1	2	1		614053
+POLR3A	polymerase (RNA) III (DNA directed) polypeptide A, 155kDa	10	q22-q23	1	18	18	18-04-2014	-
+WDR45	WD repeat domain 45	X	p11.23	1	5	5	18-04-2014	-
+MRPL3	mitochondrial ribosomal protein L3	3	q21-q23	1	3	2		COXPD9
+PNKP	polynucleotide kinase 3'-phosphatase	19	q13.3-q13.4	1	2	2	18-04-2014	-
+PSEN1	presenilin 1	14	q24.3	1	1	1	18-04-2014	-
+FBXL4	F-box and leucine-rich repeat protein 4	6	q16.1-q16.3	2	386	381	17-04-2014	MTDPS13
+VCL	vinculin	10	q22.1-q23	1	5	5	18-04-2014	-
+ACAD9	acyl-CoA dehydrogenase family, member 9	3	q21.3	2	69	62		611126
+NDUFAF4	NADH dehydrogenase (ubiquinone) complex I, assembly factor 4	6	q16.3	1	43	42		252010, 618237
+ETHE1	ethylmalonic encephalopathy 1	19	q13.32	4	98	53		EE 602473
+ISCU	iron-sulfur cluster assembly enzyme	12	q24.1	4	3	2		HML
+MTCH2	mitochondrial carrier 2	11	p11.2	1	1	1		-
+UQCRQ	ubiquinol-cytochrome c reductase, complex III subunit VII, 9.5kDa	5	q31.1	1	31	30		MC3DN4
+PMPCA	peptidase (mitochondrial processing) alpha	9	q34.3	3	2	2	26-06-2018	-
+SZT2	seizure threshold 2 homolog (mouse)	1	p34.2	1	3	3	18-04-2014	-
+DFNB31	deafness, autosomal recessive 31	9	q32	1	69	69	10-12-2013	500004
+RNF167	ring finger protein 167	17	p13.2	1	1	1	25-06-2018	-
+OPA1	optic atrophy 1 (autosomal dominant)	3	q28-q29	8	77	64		616896, DOA+, OPA1
+RBPJ	recombination signal binding protein for immunoglobulin kappa J region	4	p15.2	1	13	13	25-06-2018	-
+CUTC	cutC copper transporter	10	q24.2	1	9	9	25-06-2018	-
+NDUFA13	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 13	19	p13.11	3	1	1		618249
+MRPS7	mitochondrial ribosomal protein S7	17	q25.1	1	1	1		617872
+NDUFAF1	NADH dehydrogenase (ubiquinone) complex I, assembly factor 1	15	q11.2-q21.3	2	29	26		252010, 618234
+MRPS2	mitochondrial ribosomal protein S2	9	q34	5	3	3		617950
+EXOSC3	exosome component 3	9	p11	1	3	3	18-04-2014	-
+MRPS16	mitochondrial ribosomal protein S16	10	q22.1	1	52	51		COXPD2
+TIMMDC1	translocase of inner mitochondrial membrane domain containing 1	3	q13.33	1	2	2	25-06-2018	252010, 618251
+SEPSECS	Sep (O-phosphoserine) tRNA:Sec (selenocysteine) tRNA synthase	4	p15.2	1	2	2	18-04-2014	-
+FOXRED1	FAD-dependent oxidoreductase domain containing 1	11	q24.2	3	44	41		252010, 618241
+CDKAL1	CDK5 regulatory subunit associated protein 1-like 1	6	p22.2	1	5	3	15-08-2014	NIDDM
+TRMT10C	tRNA methyltransferase 10C, mitochondrial RNase P subunit	3	q12.3	1	2	2	25-06-2018	616974
+TRMU	tRNA 5-methylaminomethyl-2-thiouridylate methyltransferase	22	q13	1	71	66		580000, LFIT
+IARS2	isoleucyl-tRNA synthetase 2, mitochondrial	1	q41	1	2	2		-
+MTPAP	mitochondrial poly(A) polymerase	10	p12.1	1	6	5		SPAX4
+MSTO1	misato 1, mitochondrial distribution and morphology regulator	1	q22	1	8	8	25-06-2018	617675
+DARS2	aspartyl-tRNA synthetase 2, mitochondrial	1	q25.1	3	60	48		611105
+CEP55	centrosomal protein 55	10	q23.33	1	1	1	17-06-2019	-
+FANCI	Fanconi anemia, complementation group I	15	q26.1	1	18	17	18-11-2013	-
+AGK	acylglycerol kinase	7	q34	1	62	60		212350
+QRSL1	glutaminyl-tRNA synthase (glutamine-hydrolyzing)-like 1	6	q21	1	4	4		-
+SPATA7	spermatogenesis associated 7	14	q31.3	1	8	8	18-04-2014	-
+MRPS22	mitochondrial ribosomal protein S22	3	q23	1	18	16		COXPD5
+ADCK3	aarF domain containing kinase 3	1	q42.11	8	107	99		COQ10D4
+CIAPIN1	cytokine induced apoptosis inhibitor 1	16	q21	1	3	3	17-06-2019	-
+RARS2	arginyl-tRNA synthetase 2, mitochondrial	6	q16.1	5	21	19		PCH6
+RPGRIP1	retinitis pigmentosa GTPase regulator interacting protein 1	14	q11.2	1	2	2	10-12-2013	-
+PDSS2	prenyl (decaprenyl) diphosphate synthase, subunit 2	6	q21	1	42	40		COQ10D3
+AARS2	alanyl-tRNA synthetase 2, mitochondrial	6	p21.1	3	93	90	13-11-2013	COXPD8, LKENP
+FAM135A	family with sequence similarity 135 member A	6	q13	1	1	1	25-06-2018	-
+SCAPER	S-phase cyclin A associated protein in the ER	15	q24.3	1	1	1	16-06-2019	-
+RET	ret proto-oncogene	10	q11.2	1	69	68	22-05-2014	-
+NDUFV2	NADH dehydrogenase (ubiquinone) flavoprotein 2, 24kDa	18	p11.22	1	18	17		252010, 556500, 618229
+GATAD1	GATA zinc finger domain containing 1	7	q21-q22	1	1	1	18-04-2014	-
+MRPS14	mitochondrial ribosomal protein S14	1	q25.1	2	1	1		618378
+NMNAT1	nicotinamide nucleotide adenylyltransferase 1	1	p36.22	2	9	9	10-12-2013	-
+MRPL44	mitochondrial ribosomal protein L44	2	p24.3-p24.1	1	4	3		COXPD16
+RSRC2	arginine and serine rich coiled-coil 2	12	q24.31	1	1	1	17-06-2019	-
+MRPS34	mitochondrial ribosomal protein S34	16	p13.3	3	4	4		617664
+NDUFS7	NADH dehydrogenase (ubiquinone) Fe-S protein 7, 20kDa (NADH-coenzyme Q reductase)	19	p13	3	17	15		618224
+NARS2	asparaginyl-tRNA synthetase 2, mitochondrial (putative)	11	q14.1	2	14	14		616239
+GFM1	G elongation factor, mitochondrial 1	3	q25	2	61	57		COXPD1
+CEP290	centrosomal protein 290kDa	12	q21.33	1	3	3	10-12-2013	-
+TCF7L2	transcription factor 7-like 2 (T-cell specific, HMG-box)	10	q25.3	1	8	4	15-08-2014	NIDDM
+ISCA1	iron-sulfur cluster assembly 1	9	q21.33	1	1	1	25-06-2018	617613
+C19orf12	chromosome 19 open reading frame 12	19	q13.11	1	120	109	18-11-2013	NBIA4
+TMEM126A	transmembrane protein 126A	11	q14.1	1	1	1		-
+MYPN	myopalladin	10	q22.1	1	10	10	18-04-2014	-
+FAM126A	family with sequence similarity 126, member A	7	p15.3	1	4	4	18-04-2014	-
+KRAS	Kirsten rat sarcoma viral oncogene homolog	12	p12.1	1	3	3	15-09-2014	-
+MGME1	mitochondrial genome maintenance exonuclease 1	20	p11.23	1	6	4		MTDPS11
+LRPPRC	leucine-rich pentatricopeptide repeat containing	2	p21	1	169	168		LSFC
+TTN	titin	2	q31	1	38	38	18-04-2014	-
+MTFMT	mitochondrial methionyl-tRNA formyltransferase	15	q22.31	1	23	15		618248, COXPD15
+NEXN	nexilin (F actin binding protein)	1	p31.1	1	2	2	18-04-2014	-
+OSBPL7	oxysterol binding protein like 7	17	q21.32	1	1	1	17-06-2019	-
+RDH12	retinol dehydrogenase 12 (all-trans/9-cis/11-cis)	14	q24.1	1	14	14	18-04-2014	-
+NUP62	nucleoporin 62kDa	19	q13.33	1	2	1	26-11-2013	SNDI
+LMNA	lamin A/C	1	q22	1	58	58	18-04-2014	-
+SLC30A8	solute carrier family 30 (zinc transporter), member 8	8	q24.11	1	5	4	26-11-2013	NIDDM
+NDUFAF2	NADH dehydrogenase (ubiquinone) complex I, assembly factor 2	5	q12.1	1	21	20		252010, MC1DN10 618233
+HRAS	Harvey rat sarcoma viral oncogene homolog	11	p15.5	1	10	9	18-08-2014	-
+GATC	glutamyl-tRNA amidotransferase subunit C	12	q24.31	1	1	1	17-06-2019	-
+SLC25A42	solute carrier family 25, member 42	19	p13.11	4	1	1		-
+LCA5	Leber congenital amaurosis 5	6	q14	1	3	3	10-12-2013	-
+ISCA2	iron-sulfur cluster assembly 2	14	q24.3	1	4	3	25-06-2018	616370
+COX20	COX20 cytochrome C oxidase assembly factor	1	q44	3	3	2		220110
+NDUFAF3	NADH dehydrogenase (ubiquinone) complex I, assembly factor 3	3	p21.31	4	26	23		252010, 618240
+TSEN54	TSEN54 tRNA splicing endonuclease subunit	17	q25.1	1	4	4	18-04-2014	-
+SFXN4	sideroflexin 4	10	q26.11	6	8	5		615578

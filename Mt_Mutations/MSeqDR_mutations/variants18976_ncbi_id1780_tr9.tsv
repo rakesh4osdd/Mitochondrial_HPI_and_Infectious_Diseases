@@ -1,0 +1,10 @@
+NCBI Protein ID	Gene	Name	Transcript	Chr	Allele	Type	DNA change (genomic) (hg19)	Published as	GERP	Segregation	DB-ID	MSCV	dbSNP ID	Frequency	Sources	Reference	Variant remarks	Genetic origin	Variant_disease	Owner	Effect	DNA change (cDNA)	Protein	GVS function	Splice distance	Position	Location	Exon	PolyPhen	RNA change	SIFT
+NP_000050.2	BRCA2	breast cancer 2, early onset	NM_000059.3	13	Unknown	subst	g.32931887G>A	-	4.29	-	BRCA2_000001	MSCV_0000505	rs61754138	-	;	15876480;20127978;10923033;20104584	-	-	-	-	./.	c.7626G>A	p.?	synonymous_variant	-	-	-	16/27	-	r.?	-
+NP_000537.3	TP53	transcript variant 1	NM_000546.5	17	Unknown	-	g.7578207A>C	-	-	-	TP53_000001	-	-	-	;	-	-	-	-	Lishuang Shen	./.	c.642T>G	p.(His214Gln)	-	-	-	-	-	-	-	-
+NP_001119584.1	TP53	transcript variant 2	NM_001126112.2	17	Unknown	-	g.7578207A>C	-	-	-	TP53_000001	-	-	-	;	-	-	-	-	Lishuang Shen	./.	c.642T>G	p.(His214Gln)	-	-	-	-	-	-	-	-
+NP_001119585.1	TP53	transcript variant 4	NM_001126113.2	17	Unknown	-	g.7578207A>C	-	-	-	TP53_000001	-	-	-	;	-	-	-	-	Lishuang Shen	./.	c.642T>G	p.(His214Gln)	-	-	-	-	-	-	-	-
+NP_001119586.1	TP53	transcript variant 3	NM_001126114.2	17	Unknown	-	g.7578207A>C	-	-	-	TP53_000001	-	-	-	;	-	-	-	-	Lishuang Shen	./.	c.642T>G	p.(His214Gln)	-	-	-	-	-	-	-	-
+NP_001119587.1	TP53	transcript variant 5	NM_001126115.1	17	Unknown	-	g.7578207A>C	-	-	-	TP53_000001	-	-	-	;	-	-	-	-	Lishuang Shen	./.	c.246T>G	p.(His82Gln)	-	-	-	-	-	-	-	-
+NP_001119588.1	TP53	transcript variant 6	NM_001126116.1	17	Unknown	-	g.7578207A>C	-	-	-	TP53_000001	-	-	-	;	-	-	-	-	Lishuang Shen	./.	c.246T>G	p.(His82Gln)	-	-	-	-	-	-	-	-
+NP_001119589.1	TP53	transcript variant 7	NM_001126117.1	17	Unknown	-	g.7578207A>C	-	-	-	TP53_000001	-	-	-	;	-	-	-	-	Lishuang Shen	./.	c.246T>G	p.(His82Gln)	-	-	-	-	-	-	-	-
+NP_001119590.1	TP53	transcript variant 8	NM_001126118.1	17	Unknown	-	g.7578207A>C	-	-	-	TP53_000001	-	-	-	;	-	-	-	-	Lishuang Shen	./.	c.525T>G	p.(His175Gln)	-	-	-	-	-	-	-	-

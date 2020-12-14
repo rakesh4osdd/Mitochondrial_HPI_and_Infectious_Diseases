@@ -1,0 +1,11 @@
+Main_gene_name	Swiss-Prot_AC	FTId	AA_change	Type_of_variant	dbSNP	Disease name
+TP53	P04637	VAR_005993	p.Arg273Cys	Disease	rs121913343	Li-Fraumeni syndrome (LFS) [MIM:151623]
+TP53	P04637	VAR_005994	p.Arg273Gly	Disease	-	Li-Fraumeni syndrome (LFS) [MIM:151623]
+TP53	P04637	VAR_005995	p.Arg273His	Disease	rs28934576	Li-Fraumeni syndrome (LFS) [MIM:151623]
+TP53	P04637	VAR_036509	p.Arg273Leu	Disease	rs28934576	Li-Fraumeni syndrome (LFS) [MIM:151623]
+TP53	P04637	VAR_045273	p.Ile254Val	Unclassified	rs746601313	Sporadic cancers
+TP53	P04637	VAR_045355	p.Arg273Pro	Unclassified	rs28934576	Sporadic cancers
+TP53	P04637	VAR_045356	p.Arg273Gln	Unclassified	-	Sporadic cancers
+TP53	P04637	VAR_045357	p.Arg273Ser	Unclassified	rs121913343	A familial cancer not matching LFS
+TP53	P04637	VAR_045867	p.Arg273Asn	Unclassified	-	A sporadic cancer
+TP53	P04637	VAR_045868	p.Arg273Tyr	Unclassified	-	A sporadic cancer

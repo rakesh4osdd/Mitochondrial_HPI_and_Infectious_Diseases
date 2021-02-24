@@ -1,0 +1,2 @@
+Download Mutations influencing interactions dataset from https://www.ebi.ac.uk/intact/resources/datasets#mutationDs
+ftp://ftp.ebi.ac.uk/pub/databases/intact/current/various/mutations.tsv
